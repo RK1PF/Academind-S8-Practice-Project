@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Academind-S8-Practice-Project/static/css/main.6c786caf.css",
+    "main.js": "/Academind-S8-Practice-Project/static/js/main.4513d97f.js",
+    "index.html": "/Academind-S8-Practice-Project/index.html",
+    "main.6c786caf.css.map": "/Academind-S8-Practice-Project/static/css/main.6c786caf.css.map",
+    "main.4513d97f.js.map": "/Academind-S8-Practice-Project/static/js/main.4513d97f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c786caf.css",
+    "static/js/main.4513d97f.js"
+  ]
+}
